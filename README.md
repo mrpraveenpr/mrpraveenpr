@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/@praveenvijay40" target="blank"><img src="https://img.shields.io/twitter/follow/@praveenvijay40?logo=twitter&style=for-the-badge" alt="@praveenvijay40" /></a> </p>
 
-- 🔭 I’m currently working at Finstein **AWS cloud kitchen project**
+- 🔭 I’m currently working at Finstein **AWS Devops Enginner**
 
 - 💬 Ask me about **Nothing**
 
